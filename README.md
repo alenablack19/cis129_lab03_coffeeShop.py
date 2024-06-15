@@ -1,12 +1,12 @@
-# Get the number of coffees and muffins from the user
+# My coffee and Muffin Shop
 num_coffees = int(input("Number of coffees bought? "))
+3
 num_muffins = int(input("Number of muffins bought? "))
+2
 
-# Prices of coffee and muffin
+# My Coffee and Muffin Recipt
 coffee_price = 5
 muffin_price = 4
-
-# Calculate subtotal, tax, and total
 subtotal = (num_coffees * coffee_price) + (num_muffins * muffin_price)
 tax = round(subtotal * 0.06, 2)
 total = subtotal + tax
