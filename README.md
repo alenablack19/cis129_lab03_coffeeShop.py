@@ -1,4 +1,4 @@
-# My coffee, Muffin, tea, and Donut Shop
+# My coffee, Muffin, Tea, and Donut Shop
 num_coffees = 3
 num_muffins = 3
 num_teas = 2
@@ -28,5 +28,4 @@ print(f"{num_teas} Teas at ${price_tea} each: ${num_teas * price_tea:.2f}")
 print(f"{num_donuts} Donuts at ${price_donut} each: ${num_donuts * price_donut:.2f}")
 print(f"6% tax: ${tax:.2f}")
 print(f"Total: ${total:.2f}")
-
-Thank you for coming!
+Print (Thank you for coming!)
